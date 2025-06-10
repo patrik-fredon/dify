@@ -57,7 +57,7 @@
     "js-cookie": "^3.0.1",
     "katex": "^0.16.10",
     "lamejs": "^1.2.1",
-    "lexical": "^0.16.0",
+    "lexical": "^0.31.1",
     "lodash-es": "^4.17.21",
     "mermaid": "10.4.0",
     "negotiator": "^0.6.3",
