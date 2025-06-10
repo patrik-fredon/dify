@@ -33,7 +33,7 @@
     "@mdx-js/loader": "^2.3.0",
     "@mdx-js/react": "^2.3.0",
     "@monaco-editor/react": "^4.6.0",
-    "@next/mdx": "^14.0.4",
+    "@next/mdx": "^14.2.28",
     "@remixicon/react": "^4.2.0",
     "@sentry/react": "^7.54.0",
     "@sentry/utils": "^7.54.0",
